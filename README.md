@@ -5,7 +5,7 @@ InterSaME – The intertwined world of the oral and written transmission of sacr
 
 The code has been developed by **Alicia González Martínez** and **Carolin Kinne-Wall**.
 
-Website: www.intersame.uni-hamburg.de
+Project website: www.intersame.uni-hamburg.de
 
 ## Description
 
